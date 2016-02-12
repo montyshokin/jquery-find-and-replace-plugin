@@ -1,0 +1,28 @@
+body {
+  font-family: 'Dosis';
+  font-size: 1.3em;
+  width: 600px;
+  text-align: justify;
+  line-height: 1.8em;
+}
+
+.match-section {
+  background: #9F6;
+  border-radius: 3px;
+  padding: 2px;
+}
+
+.match-link {
+  background: #F96;
+  border-radius: 3px;
+  padding: 2px;
+}
+
+.notification{
+  border-radius: 3px;
+  background: rgba(0,0,0,0.9);
+  color: #fff;
+  padding: 4px;
+  position: fixed;
+  bottom: 0;
+}
